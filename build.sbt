@@ -1,4 +1,4 @@
-name := "myGit sample repo"
+naame := "myGit sample repo 1"
 
 version := "0.0.1"
 
